@@ -1,0 +1,28 @@
+* {
+    background-color: burlywood;
+}
+
+td {
+    padding: 20px;
+}
+
+.contenedor {
+    text-align: center;
+}
+
+.tablas {
+    display: flex;
+}
+
+img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+thead td {
+    color: red;
+}
+
+table {
+    margin-left: 50px;
+}
